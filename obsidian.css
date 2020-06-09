@@ -199,8 +199,10 @@ thead
 img
 {
     display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
 }
 
 .HyperMD-list-line
